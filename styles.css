@@ -1,0 +1,100 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('https://imageio.forbes.com/specials-images/imageserve/6200b0dddcf32d3be937fa84/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(244, 244, 244, 0.8);
+    width: 100%;
+}
+
+nav {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+nav ul li a {
+    color: blue;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.image-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30%;
+    box-sizing: border-box;
+}
+
+.section img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin-top: 10px;
+}
+
+.section a {
+    text-decoration: none;
+    color: blue;
+}
+
+.section a:hover {
+    text-decoration: underline;
+}
+
+.title-origin {
+    text-align: left;
+}
+
+.title-future {
+    text-align: center;
+}
+
+.title-evolution {
+    text-align: right;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f4f4f4;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 0.8em;
+}
+
