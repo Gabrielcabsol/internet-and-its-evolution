@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>the best way to use it </title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1> best way to use it   </h1>
+    </header>
+  
+    
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+         
+            <li><a href="#">Contact us </a></li>
+        </ul>
+    </nav>
+    
+    <section class="contact-us">
+      <h2>
+        Digital society        
+      </h2>
+     <p>
+   in the present there are many things important to learn, and one of them is the way to use the tecnology and internet becouse of the reason that every day we use it. In other words is a modern social structure in which digital technologies, particularly the internet and information and communication technologies (ICTs), are deeply embedded in everyday life. It encompasses how individuals, businesses, governments, and communities use digital tools to interact, work, learn, and access services.
+       </p>
+      <p>
+        this society also has its own rules or forms to use the internet  which are:
+       </p>
+      
+     <p><strong>1. Privacy and Security:</strong></p>
+
+<p><strong>Protect Personal Information:</strong> Avoid sharing sensitive information like your full address, social security number, or financial details publicly online.</p>
+
+<p><strong>Use Strong Passwords:</strong> Create complex passwords and use a password manager to keep them secure. Avoid using the same password across multiple sites.</p>
+
+<p><strong>Enable Two-Factor Authentication:</strong> Add an extra layer of security to your accounts by enabling two-factor authentication whenever possible.</p>
+
+<p><strong>Be Wary of Phishing:</strong> Don’t click on suspicious links or open attachments from unknown senders. Always verify the source of emails that request sensitive information.</p>
+
+<p><strong>2. Respect and Etiquette:</strong></p>
+
+<p><strong>Be Respectful:</strong> Treat others with respect and courtesy in online communications. Avoid hate speech, bullying, and harassment.</p>
+
+<p><strong>Follow the Rules of the Platform:</strong> Adhere to the terms of service and guidelines of the websites, social media, and other platforms you use.</p>
+
+<p><strong>Avoid Spamming:</strong> Do not send unsolicited messages or post repetitive content in online forums and social media.</p>
+
+<p><strong>3. Content and Copyright:</strong></p>
+
+<p><strong>Respect Copyright Laws:</strong> Do not share, download, or distribute content that you do not have the rights to, such as music, movies, or software.</p>
+
+<p><strong>Give Credit:</strong> When using information, images, or other content from the internet, credit the original source appropriately.</p>
+
+<p><strong>Verify Information:</strong> Always fact-check information from multiple reliable sources before sharing it, especially news and health-related information.</p>
+
+<p><strong>4. Responsible Use:</strong></p>
+
+<p><strong>Limit Screen Time:</strong> Balance your online activities with offline time to maintain a healthy lifestyle.</p>
+
+<p><strong>Avoid Illegal Activities:</strong> Do not engage in illegal activities such as hacking, cyberbullying, or accessing restricted content.</p>
+
+<p><strong>Be Aware of Digital Footprint:</strong> Remember that your online actions, including what you post and share, can have long-lasting effects on your digital reputation.</p>
+
+<p><strong>5. Safety Practices:</strong></p>
+
+<p><strong>Use Antivirus Software:</strong> Keep your devices protected by using up-to-date antivirus software and regularly scanning for malware.</p>
+
+<p><strong>Avoid Public Wi-Fi for Sensitive Transactions:</strong> Avoid accessing banking, shopping, or other sensitive accounts over unsecured public Wi-Fi networks.</p>
+
+<p><strong>Keep Software Updated:</strong> Regularly update your operating system, apps, and software to protect against vulnerabilities.</p>
+
+<p><strong>6. Parental and Guardian Guidance:</strong></p>
+
+<p><strong>Monitor Children's Online Activity:</strong> Use parental controls and monitor what children are doing online to ensure their safety.</p>
+
+<p><strong>Educate About Online Risks:</strong> Teach children about online dangers, such as cyberbullying, predators, and inappropriate content.</p>
+
+<p><strong>7. Use of Reliable Sources:</strong></p>
+
+<p><strong>Trustworthy Websites:</strong> Use reputable websites and sources, especially for news, research, and educational purposes.</p>
+
+<p><strong>Avoid Clickbait:</strong> Be cautious of sensational headlines or stories that seem too good (or bad) to be true.</p>
+
+<p><strong>8. Digital Well-being:</strong></p>
+
+<p><strong>Take Breaks:</strong> Regularly step away from screens to avoid eye strain and mental fatigue.</p>
+
+<p><strong>Be Mindful of Online Presence:</strong> Regularly review and manage your online profiles and privacy settings on social media and other platforms.</p>
+
+<p><strong>9. Legal Compliance:</strong></p>
+
+<p><strong>Adhere to Laws:</strong> Follow all applicable local, national, and international laws when using the internet.</p>
+
+<p><strong>Avoid Unauthorized Access:</strong> Do not attempt to access networks, accounts, or information without proper authorization.</p>
+
+      <h2> 
+      this rules are not just to keep you safe this are also to make a better experience to you and other in the use of the internet.
+      </h2>
+      
+    </section>
+
+  <div class="centered-image">
+    <img src="https://otech.uaeh.edu.mx/noti/wp-content/uploads/2019/04/Notic.5-6.jpg" alt="Centered Image">
+</div>
+  
+    <footer>
+        <p>&copy; 2024 Technology and Its Evolution</p>
+    </footer>
+</body>
+</html>
