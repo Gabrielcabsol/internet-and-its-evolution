@@ -20,6 +20,10 @@ header {
     color: white; /* Asegura que el texto del header también sea blanco */
 }
 
+header h1 {
+    color: black; /* Cambia el color del h1 a negro */
+}
+
 nav {
     position: absolute;
     top: 0;
@@ -98,5 +102,5 @@ footer {
     bottom: 0;
     width: 100%;
     font-size: 0.8em;
-    color: black; /* Mantiene el color del texto del pie de página tal como se muestra en la imagen */
+    color: black; /* Mantiene el color del texto del pie de página */
 }
