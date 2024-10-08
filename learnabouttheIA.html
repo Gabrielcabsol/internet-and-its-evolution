@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn about AI</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            background-color: #333; /* Fondo oscuro para contrastar con el texto blanco */
+            color: white; /* Color del texto blanco */
+            font-family: Arial, sans-serif; /* Fuente más legible */
+        }
+
+        header, nav, footer {
+            background-color: #444; /* Fondo ligeramente más claro para encabezado, navegación y pie de página */
+            padding: 10px;
+        }
+
+        h1, h2, h3 {
+            color: white; /* Asegura que los encabezados sean blancos */
+        }
+
+        p, li {
+            color: white; /* Asegura que los párrafos y las listas sean blancos */
+        }
+
+        a {
+            color: #00f; /* Color azul para los enlaces */
+            text-decoration: none; /* Quitar subrayado de enlaces */
+        }
+
+        a:hover {
+            text-decoration: underline; /* Subrayar enlaces al pasar el mouse */
+        }
+
+        /* Ajuste para las imágenes para que tengan un tamaño uniforme */
+        .imagenes img {
+            width: 100%; /* Ajustar al 100% del contenedor */
+            max-width: 400px; /* Ancho máximo un poco más grande */
+            height: auto; /* Mantener la proporción */
+            margin: 10px auto; /* Centrar y añadir espacio alrededor de las imágenes */
+            display: block;
+        }
+
+        /* Espaciado para el último párrafo */
+        .ethics-text p:last-of-type {
+            margin-bottom: 50px; /* Aumenta la separación en el margen inferior */
+        }
+
+        iframe {
+            width: 640px; /* Ancho fijo para videos */
+            height: 360px; /* Altura fija para videos */
+            margin: 20px 0; /* Espaciado vertical entre videos */
+        }
+    </style>
+</head>
+<body>
+  
+    <header>
+        <h1>Learn about AI</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Contact us</a></li>
+        </ul>
+    </nav>
+
+    <section class="intelligence-info">
+        <h2>Theory</h2>
+
+        <h3>Machine learning</h3>
+        <p>The use and development of computer systems that are able to learn and adapt without following explicit instructions, by using algorithms and statistical models to analyze and draw inferences from patterns in data.</p>
+        <img src="https://www.repsol.com/content/dam/repsol-corporate/es/energia-e-innovacion/robot-machine-learning.jpg.transform/rp-rendition-sm/image.jpg" alt="Machine Learning" class="imagenes">
+
+        <h3>Natural language processing</h3>
+        <p>Applications are used to derive insights from unstructured text-based data and give you access to extracted information to generate new understanding of that data. Natural language processing examples can be built using Python, TensorFlow, and PyTorch.</p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRymrQJYCDhX4Z2FCR4woTgZh9fPU5EbH9g1Q&s" alt="Natural Language Processing" class="imagenes">
+
+        <h3>Computer vision</h3>
+        <p>Computer vision is a field of computer science that focuses on enabling computers to identify and understand objects and people in images and videos.</p>
+        <img src="https://www.bombaysoftwares.com/_next/image?url=https%3A%2F%2Fbs-cms-media-prod.s3.ap-south-1.amazonaws.com%2Fcomputer_vision_16e048b394.png&w=3840&q=75" alt="Computer Vision" class="imagenes">
+
+        <h3>Types of AI Algorithms</h3>
+        <p>Supervised Learning</p>
+        <iframe src="https://www.youtube.com/embed/nkCWulVCFzI" frameborder="0" allowfullscreen></iframe>
+
+        <p>Unsupervised Learning</p>
+        <iframe src="https://www.youtube.com/embed/rLhQQRriWMc" frameborder="0" allowfullscreen></iframe>
+
+        <p>Reinforcement Learning</p>
+        <iframe src="https://www.youtube.com/embed/qBtB-xcJp4c" frameborder="0" allowfullscreen></iframe>
+
+        <h3>Ethics</h3>
+        <div class="ethics-text">
+            <p>There’s a fear about machine learning where people think about the future and are scared that a machine or AI can learn so fast that, in a bad functioning, it can adopt human biases and form its own opinion, which can be dangerous in the future.</p>
+            <p>Also, AI must handle sensitive data with care, comply with required laws and standards, provide users with clear notice, and give them necessary controls over data use. Best practices like encryption should be followed, adhering to privacy principles.</p>
+
+            <p>AI has also impacted jobs and society. Tools like ChatGPT or You.com can be very helpful but also harmful depending on their use. For example, if someone uses AI to cheat or do their work for them, it can harm society by eroding people's capacity to think and reason.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Technology and Its Evolution</p>
+    </footer>
+</body>
+</html>
